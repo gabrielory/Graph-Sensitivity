@@ -1,0 +1,43 @@
+  n   k   alpha   k-sensitivity
+  2   1   1       1
+
+  n   k   alpha   k-sensitivity
+  3   1   2       2
+
+  n   k   alpha   k-sensitivity
+  4   1   2       1
+  4   2   2       2
+
+  n   k   alpha   k-sensitivity
+  5   1   3       1
+  5   2   3       2
+
+  n   k   alpha   k-sensitivity
+  6   1   3       1
+  6   2   3       2
+  6   3   3       2
+
+  n   k   alpha   k-sensitivity
+  7   1   4       1
+  7   2   4       2
+  7   3   4       2
+
+  n   k   alpha   k-sensitivity
+  8   1   4       1
+  8   2   4       1
+  8   3   4       2
+  8   4   4       2
+
+  n   k   alpha   k-sensitivity
+  9   1   5       1
+  9   2   5       2
+  9   3   5       2
+  9   4   5       2
+
+  n    k   alpha   k-sensitivity
+  10   1   5       1
+  10   2   5       1
+  10   3   5       2
+  10   4   5       2
+  10   5   5       2
+
