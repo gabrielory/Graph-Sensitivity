@@ -7,7 +7,7 @@ This repository contains code for computing the sensitivity of various graph fam
 - **'sensitivity.sage'** – Contains methods for computing graph sensitivity.
 - **'PriorityQueue.sage'** - Contains a class implementing a binary heap.
 - **'graph_families/'** – Includes classes for constructing different graph families, along with supporting functions.  
-- **'graph_families/sensitivity_calculations/'** – Contains scripts that implement sensitivity calculations for specific graph families. (These are the files that should be executed.)
+- **'graph_families/sensitivity_calculations/'** – Contains scripts that generate graphs within specific families and compute their sensitivity. (These are the files that should be executed.)
 - **'out/'** – Stores the output generated from the computations.
 
 ## Running the Code  
